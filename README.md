@@ -10,7 +10,6 @@
 
 Sou desenvolvedora de jogos, amo jogos indie, e sou apaixonada em Ordem Paranormal(RPG).
 
-- 🐱‍🐉 Estudante de HTML
 - 🐱‍🏍 Fã de Ordem Paranormal
 - 👩‍💻 Aprendendo sobre HTML, CSS e JavaScrip
 
