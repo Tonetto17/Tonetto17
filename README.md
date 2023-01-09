@@ -8,10 +8,11 @@
  
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e sou apaixonada em Ordem Paranormal(RPG).
+Amo jogos indie, e sou apaixonada em Ordem Paranormal(RPG).
 
-- 🐱‍🏍 Fã de Ordem Paranormal
-- 👩‍💻 Aprendendo sobre HTML, CSS e JavaScrip
+- 👩‍💻 Aprendendo sobre HTML, CSS e JavaScrip.
+- 🐱‍🏍 Fã de Ordem Paranormal.
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
