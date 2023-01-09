@@ -9,7 +9,7 @@
  
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Sou desenvolvedora de jogos, amo jogos indie, e sou apaixonada em Ordem Paranormal(RPG).
 
 - 🐱‍🐉 Estudante de HTML
 - 🐱‍🏍 Fã de Ordem Paranormal
