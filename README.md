@@ -8,7 +8,7 @@
  
 </div>
 
-Amo jogos indie, e sou apaixonada em Ordem Paranormal(RPG).
+Amo jogos indie, e sou apaixonada em RPG.
 
 - 👩‍💻 Aprendendo sobre HTML, CSS e JavaScrip.
 - 🐱‍🏍 Fã de Ordem Paranormal.
