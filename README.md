@@ -2,6 +2,7 @@
 <img src= "giphy.gif" width= "200px" align= "right">
 # 🐱‍👤 Seja bem vindo e bem vinda ao meu GitHub! 🐱‍👤
 
+
 <div id="badges">
   <a href = "https://www.linkedin.com/in/giovanna-tonetto-536897255">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external" alt="LinkedIn Badge"/>
