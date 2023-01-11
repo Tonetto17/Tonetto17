@@ -1,5 +1,6 @@
-<img src= "giphy.gif" width= "250px" align= "center">
+
 # 🐱‍👤 Seja bem vindo e bem vinda ao meu GitHub! 🐱‍👤
+<img src= "giphy.gif" width= "250px" align= "center">
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/giovanna-tonetto-536897255">
