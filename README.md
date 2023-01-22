@@ -1,18 +1,18 @@
 
 <img src= "giphy.gif" width= "200px" align= "right">
-# 🐱‍👤 Seja bem vindo e bem vinda ao meu GitHub! 🐱‍👤
+<h1># 🐱‍👤 Seja bem vindo e bem vinda ao meu GitHub! 🐱‍👤</h1>
 
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/giovanna-tonetto-536897255">
+  <a href = "https://www.linkedin.com/in/giovanna-correia-tonetto-536897255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external" alt="LinkedIn Badge"/>
   </a>
  
 </div>
 
-Amo jogos indie e sou apaixonada em RPG.
+No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundado.
 
-- 👩‍💻 Aprendendo sobre HTML, CSS e JavaScrip.
+- 👩‍💻 Aprendendo sobre HTML, CSS, JavaScrip, Banco de dados e C++.
 
 
 
