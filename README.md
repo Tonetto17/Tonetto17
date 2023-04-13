@@ -22,7 +22,7 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
 </div>
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonetto17&show_icons=true&theme=cobalt&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonetto17&show_icons=true&theme=darkt&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Tonetto17&show_icons=true&show_icons=true&theme=cobalt&count_private=true" />
 </div>
 ---
