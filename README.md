@@ -21,6 +21,10 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonetto17&show_icons=true&theme=cobalt&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Ella-25&show_icons=true&show_icons=true&theme=cobalt&count_private=true" />
+</div>
 ---
 
 
