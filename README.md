@@ -23,9 +23,9 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
   ##
   
   <div>
- <a href="https://www.linkedin.com/in/giovanna-tonetto-536897255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "giovanna.ctonetto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
-<a href="https://www.instagram.com/__tonetto__/?igshid=ZDdkNTZiNTM%3D" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/giovanna-tonetto-536897255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+<a href = "giovanna.ctonetto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blanck"></a>
+<a href="https://www.instagram.com/__tonetto__/?igshid=ZDdkNTZiNTM%3D" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   
   </div>
   
