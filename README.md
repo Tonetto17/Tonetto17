@@ -3,8 +3,6 @@
 
 No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundado.
 
-- 👩‍💻 Aprendendo sobre HTML, CSS, JavaScrip, Banco de dados e C#.
-
 
  <div>
   <a href="https://github.com/Tonetto17">
