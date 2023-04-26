@@ -1,7 +1,7 @@
 <h1> Seja bem vindo e bem vinda ao meu GitHub! </h1>
 
 
-No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundado.
+No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.
 
 <div>
   <a href="https://github.com/Tonetto17">
