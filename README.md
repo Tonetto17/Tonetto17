@@ -1,5 +1,5 @@
 <h1> Seja bem vindo e bem vinda ao meu GitHub! </h1>
-<img align="right" alt="programacao" src="giphy.gif" width= "160px">
+<img align="right" alt="programacao" src="giphy.gif" width= "140px">
 
 No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.
 
