@@ -1,5 +1,5 @@
 <h1> Seja bem vindo e bem vinda ao meu GitHub! </h1>
-
+<img align="right" alt="programacao" src="giphy.gif" width= "160px">
 
 No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.
 
@@ -15,7 +15,7 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
   <img align="center" alt="Tonetto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tonetto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Tonetto-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
- <img align="right" alt="programacao" src="giphy.gif" width= "160px">
+ 
 </div>
   
   ##
