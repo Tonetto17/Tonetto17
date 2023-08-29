@@ -10,6 +10,7 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
 </div>
   
 <div style="display: inline_block"><br>
+   
   <img align="center" alt="tonetto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tonetto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tonetto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,13 +21,6 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
 </div>
   
   ##
-  
- <div>
-   <a href="[https://www.linkedin.com/in/giovanna-tonetto-536897255/](https://www.linkedin.com/in/giovanna-correia-tonetto-536897255/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/__tonetto__/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
-
-  <div ">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
