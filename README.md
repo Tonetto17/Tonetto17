@@ -5,8 +5,8 @@ No final de 2022 comecei a focar meus estudos na área da programação, sempre 
 
 <div>
   <a href="https://github.com/Tonetto17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tonetto17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonetto17&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=Tonetto17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonetto17&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
