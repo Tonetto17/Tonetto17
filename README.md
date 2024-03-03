@@ -1,7 +1,7 @@
 <h1> Bem vindo ao meu GitHub! </h1>
 <img align="right" alt="programacao" src="giphy.gif" width= "100px">
 
-Estudante de ciência da computação, aprendendo um pouco de tudo :) .
+Estudante de ciência da computação e aprendendo um pouco de tudo :) .
 
 <div>
   <a href="https://github.com/Tonetto17">
