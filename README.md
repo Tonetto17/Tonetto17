@@ -1,7 +1,7 @@
-<h1> Seja bem vindo e bem vinda ao meu GitHub! </h1>
+<h1> Bem vindo ao meu GitHub! </h1>
 <img align="right" alt="programacao" src="giphy.gif" width= "100px">
 
-No final de 2022 comecei a focar meus estudos na área da programação, sempre me interessei muito da área da computação e comecei a estudar por hobby, agora eu estou aprofundando.
+Estudante de ciência da computação, aprendendo um pouco de tudo :) .
 
 <div>
   <a href="https://github.com/Tonetto17">
