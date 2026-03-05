@@ -17,10 +17,6 @@
 
 </div>
 
-
-
-
-
 <br clear="right"/>
 
 ---
