@@ -30,15 +30,6 @@
 - 🌱 Sempre aprendendo algo novo  
 
 
-
----
-
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tonetto17&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ## 🐍 Contribuições
